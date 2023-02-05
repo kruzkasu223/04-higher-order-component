@@ -1,4 +1,3 @@
-import "./App.css"
 import { UserWithData } from "./User"
 
 function App() {
